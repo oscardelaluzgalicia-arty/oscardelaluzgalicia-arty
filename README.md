@@ -10,10 +10,6 @@
 <p align="center">🚀 Construyendo soluciones reales con código, datos e infraestructura</p>
 
 ---
-
-
----
-
 <!-- SOBRE MI -->
 <h2 align="center">🧠 Sobre mí</h2>
 
@@ -118,7 +114,7 @@ Me caracterizo por ser analítico, constante y orientado a la mejora continua. A
     <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
   </a>
 </p>
-
+---
 <!-- STATS -->
 <h2 align="center">📊 GitHub Stats</h2>
 
