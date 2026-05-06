@@ -68,30 +68,31 @@ Me caracterizo por ser analítico, constante y orientado a la mejora continua. A
 <table align="center">
   <tr>
     <th>Certificación</th>
-    <th>Institución</th>
-    <th>Fecha</th>
+    <th>Archivo</th>
     <th>Ver</th>
   </tr>
 
   <tr>
-    <td>Certificación 1</td>
-    <td>Institución</td>
-    <td>2025</td>
+    <td>Copilot: domina la IA en Microsoft 365</td>
+    <td>PDF</td>
     <td>
-      <a href="https://github.com/TU-USUARIO/TU-REPO/blob/main/assets/certifications/cert1.png" target="_blank">
-        <img src="https://github.com/TU-USUARIO/TU-REPO/blob/main/assets/certifications/cert1.png" width="80px"/>
-      </a>
+      <a href="assets/Copilot%20domina%20la%20IA%20en%20Microsoft%20365.pdf" target="_blank">Ver certificado</a>
     </td>
   </tr>
 
   <tr>
-    <td>Certificación 2</td>
-    <td>Institución</td>
-    <td>2025</td>
+    <td>Mindfulness &amp; Worklife Balance</td>
+    <td>PDF</td>
     <td>
-      <a href="https://github.com/TU-USUARIO/TU-REPO/blob/main/assets/certifications/cert2.png" target="_blank">
-        <img src="https://github.com/TU-USUARIO/TU-REPO/blob/main/assets/certifications/cert2.png" width="80px"/>
-      </a>
+      <a href="assets/Mindfulness%20%26%20Worklife%20Balance.pdf" target="_blank">Ver certificado</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Power BI</td>
+    <td>PDF</td>
+    <td>
+      <a href="assets/Power%20BI.pdf" target="_blank">Ver certificado</a>
     </td>
   </tr>
 
