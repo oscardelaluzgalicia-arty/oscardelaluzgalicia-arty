@@ -1,11 +1,11 @@
 <!-- HEADER -->
-<h1 align="center">Hola, soy Francisco 👋</h1>
+<h1 align="center">Hola, soy Francisco </h1>
 <h3 align="center">Ingeniero en Tecnologías de la Información | Backend | Datos | Automatización</h3>
 
 ---
 
 <!-- SOBRE MI -->
-<h2 align="center">🧠 Sobre mí</h2>
+<h2 align="center"> Sobre mí</h2>
 
 <p align="center">
 Ingeniero en tecnologías de la información con experiencia en entornos profesionales. Me enfoco en comprender el funcionamiento de los sistemas para implementar soluciones prácticas, eficientes y orientadas a resultados.
