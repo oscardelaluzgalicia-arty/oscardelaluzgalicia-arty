@@ -11,17 +11,6 @@
 
 ---
 
-<!-- STATS -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oscardelaluzgalicia-arty&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscardelaluzgalicia-arty&layout=compact&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oscardelaluzgalicia-arty&theme=radical"/>
-</p>
 
 ---
 
@@ -130,10 +119,17 @@ Me caracterizo por ser analítico, constante y orientado a la mejora continua. A
   </a>
 </p>
 
----
+<!-- STATS -->
+<h2 align="center">📊 GitHub Stats</h2>
 
-<!-- SNAKE -->
-<h2 align="center">🐍 Contribuciones</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oscardelaluzgalicia-arty&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscardelaluzgalicia-arty&layout=compact&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oscardelaluzgalicia-arty&theme=radical"/>
+</p>
 
 <p align="center">
   <img src="https://github.com/oscardelaluzgalicia-arty/oscardelaluzgalicia-arty/blob/output/github-contribution-grid-snake.svg"/>
