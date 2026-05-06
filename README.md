@@ -1,35 +1,76 @@
-<!-- Tecnologías -->
-<h2 align="center">⚙️ Tecnologías que manejo</h2>
+<!-- HEADER -->
+<h1 align="center">Hola, soy Francisco 👋</h1>
+<h3 align="center">Backend | Datos | Automatización | Infraestructura</h3>
+
+---
+
+<!-- STACK -->
+<h2 align="center">⚙️ Stack Tecnológico</h2>
+
+<!-- Lenguajes -->
+<h3 align="center">💻 Lenguajes</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,js,cpp,cs" />
+</p>
+
+<!-- Backend -->
+<h3 align="center">🧠 Backend & APIs</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py" />
+</p>
+
+<!-- Frontend -->
+<h3 align="center">🎨 Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+</p>
+
+<!-- Bases de datos -->
+<h3 align="center">🗄️ Bases de Datos</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+<p align="center"><i>Experiencia con SQL y NoSQL</i></p>
+
+<!-- Cloud / DevOps -->
+<h3 align="center">☁️ Cloud & DevOps</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,linux,nginx" />
+</p>
+<p align="center"><i>Entornos locales con XAMPP (Apache, MySQL, PHP)</i></p>
+
+<!-- Herramientas -->
+<h3 align="center">🛠️ Herramientas</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,postman,vscode,androidstudio" />
+</p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,docker,postgres,prisma,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=12" />
-  </a>
+  <b>Otros:</b> Jira · Power BI · Canva · Microsoft Office (Excel, Word, etc.)
 </p>
 
 ---
 
-<!-- Contacto -->
+<!-- CONTACTO -->
 <h2 align="center">📬 Conecta conmigo</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/francisco-de-la-luz-b004483b5/" target="_blank">
-    <img align="center" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </a> &nbsp;&nbsp;
 
   <a href="mailto:oscardelaluzgalicia@gmail.com">
-    <img align="center" alt="Gmail" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
+    <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
   </a>
 </p>
 
 ---
 
-<!-- Frase / Branding -->
-<h3 align="center">🚀 Construyendo soluciones reales con código, datos y automatización</h3>
+<h3 align="center">🚀 Construyendo soluciones reales con código, datos y enfoque práctico</h3>
 
 ---
 
-<!-- Snake contribution -->
+<!-- SNAKE -->
 <p align="center">
-  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake animation">
+  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
 </p>
